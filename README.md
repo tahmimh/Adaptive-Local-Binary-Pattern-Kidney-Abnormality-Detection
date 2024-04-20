@@ -67,13 +67,13 @@ The shortage of nephrologists and the growing public health concern over renal f
 
 The below figure is the algorithm of proposed feature descriptor. 
 
-![Algorithm](Figures/Proposed_Feaature_Descriptor_Algorithm.png)
+![Algorithm](Figures/Proposed_Feature_Descriptor_Algorithm.png)
 
 # Proposed Framework
 
 The below figure is the proposed framework that has been used to do the test. 
 
-![Algorithm](Figures/Proposed_Feaature_Descriptor_Algorithm.png)
+![Algorithm](Figures/Methodology.png)
 
 
 # Usage
