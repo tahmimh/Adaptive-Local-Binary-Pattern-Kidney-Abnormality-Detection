@@ -73,7 +73,7 @@ The below figure is the algorithm of proposed feature descriptor.
 
 The below figure is the proposed framework that has been used to do the test. 
 
-![Algorithm](Figures/Methodology.jpg)
+![Methodology](Figures/Methodology.jpg)
 
 
 # Usage
